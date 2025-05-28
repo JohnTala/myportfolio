@@ -5,8 +5,8 @@ export default function About() {
       <div className="max-w-4xl mx-auto">
         <h3 className="text-3xl font-bold mb-6">About Me</h3>
         <p className="text-gray-700">
-          I have experience in HTML, CSS, JavaScript, and React. I enjoy solving
-          problems and continuously learning new technologies to improve my skills.
+          I have experience in HTML, CSS, JavaScript, and React.I also a fair understanding of Fundamentals of Python and C#.
+          I enjoy solving problems and continuously learning new technologies to improve my skills.
         </p>
       </div>
     </section>
